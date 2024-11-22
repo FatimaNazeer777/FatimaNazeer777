@@ -53,3 +53,5 @@
   </a>
   
 </div>
+
+![snake gif](https://github.com/FatimaNazeer777/FatimaNazeer777/blob/output/github-snake-dark.svg)
