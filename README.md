@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Fatima and I'm a Full Stack from 🇵🇰</h2>
+<h2 align="center">Hi 👋! My name is Fatima and I'm a Full Stack from Pakistan 🇵🇰</h2>
 
 ###
 
